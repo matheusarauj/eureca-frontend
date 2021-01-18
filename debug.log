@@ -4,3 +4,4 @@
 [0929/233403.121:ERROR:exception_snapshot_win.cc(99)] thread ID 9144 not found in process
 [0929/233403.121:ERROR:exception_snapshot_win.cc(99)] thread ID 5320 not found in process
 [0929/233403.121:ERROR:exception_snapshot_win.cc(99)] thread ID 6612 not found in process
+[0117/215938.456:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)

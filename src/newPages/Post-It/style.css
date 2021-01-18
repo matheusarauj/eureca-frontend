@@ -1,0 +1,117 @@
+.main-container-postit{
+    background-color: #E6DBD3;
+}
+
+.postit-content{
+
+    width: 1600px;
+    height: 1140px;
+       
+}
+
+.postit-container{
+
+    width: 1347px;
+    height: 809px; 
+
+    margin-left: 80px;
+    margin-right: 145px;
+    margin-top: 15px;
+    margin-bottom: 143px;
+ 
+    
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 4px #15223214;
+    border-radius: 6px;
+    opacity: 1;
+
+    display: grid;
+}
+
+.postit-container-title{
+    width: 67px;
+    height: 25px;
+    text-align: left;
+
+    margin-top: 34px;
+    margin-left: 40px;
+
+}
+
+.postit-container-title p {
+    
+    font-size: 18px;
+    color: #131523;
+    letter-spacing: 0.11px;
+
+}
+
+.postit-interactive{
+    display: grid;
+    width: 940px;
+    height: 600px;
+    margin-left: 200px;
+
+}
+
+.todo-list{
+
+    width: 600px;
+    height: 394px;
+    margin-left: 220px;
+
+    color: #000000;
+    font: normal normal medium 14px Poppins;
+    letter-spacing: 0.1px;
+    opacity: 1;
+
+    
+}
+
+.todo-list .do{
+    margin-bottom: 10px;
+}
+
+.todo-list input{
+    width: 12px;
+    height: 12px;
+
+}
+
+.todo-header{
+   
+    width: 940px;
+    height: 40px;
+}
+
+.todo-header input{
+
+    width: 12px;
+    height: 12px;
+    margin-left: 220px;
+    
+    
+}
+
+.todo-header hr{
+    width: 940px;
+    height: 0px;
+
+    border: 2px solid #5A607F;
+    opacity: 1;
+}
+
+.todo-header button{
+
+    width: 121px;
+    height: 26px;
+    margin-left: 408px;
+    
+
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 13px;
+    opacity: 1;
+
+}
+
